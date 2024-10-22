@@ -1,4 +1,4 @@
-package example_Enum;
+package Lection7_8.example_Enum;
 
 import java.util.Scanner;
 
