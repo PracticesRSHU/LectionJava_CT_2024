@@ -1,6 +1,6 @@
 package Lection5_OOP.OOP_part1;
 
-public abstract  class Animal {
+public abstract  class Animal{
 	static int countAnimal=0;
 	private String type;
 	private String name;

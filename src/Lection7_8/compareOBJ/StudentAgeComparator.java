@@ -10,6 +10,7 @@ public class StudentAgeComparator implements Comparator<Student> {
 //			return 1;
 //		else if (st1.getAge() < st2.getAge())
 //			return -1;
+//		return 0;
 		return st1.getAge() - st2.getAge();
 	}
 }
