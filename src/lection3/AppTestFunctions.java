@@ -1,4 +1,4 @@
-package lection3;
+package Lection3;
 
 public class AppTestFunctions {
 

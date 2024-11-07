@@ -1,4 +1,4 @@
-package lection4;
+package Lection4;
 
 import java.util.Objects;
 
