@@ -33,7 +33,7 @@ public class AppTestArr {
 		int[][][] mas3 = new int[3][4][4];
 		int[][][] mas31 = { // 2x2x3
 				{ { 2, 3, 5 }, { 3, 4, 6 } }, { { 5, 6, 6 }, { 7, 8, 9 } } };
-//
+// заповнення масиву
 		int[][] mas2 = new int[3][];
 		mas2[0] = new int[2];// 0,1
 		mas2[1] = new int[3]; // 0,1,2
